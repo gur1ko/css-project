@@ -1,0 +1,153 @@
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+}
+
+/* 
+ul {
+  /* display: none; */
+ /*  list-style-type: none;
+  padding: 0.5rem;
+  text-align: right;
+  background-color: rgb(36, 32, 32);
+  margin: 0; */
+
+
+
+
+/* li {
+  display: inline-block;
+  margin-inline: 0.5rem;
+} */
+
+/* 
+li a {
+  color: white;
+  text-decoration: none;
+} */
+/*  */
+/* li a:hover, li a:focus {
+  text-decoration: underline
+}
+
+ */ */
+ */
+
+
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0.5rem;
+  font-family: "Roboto", sans-serif;
+text-align: center;
+}
+
+nav {
+  border: 2px solid #333;
+  border-radius: 2rem;
+  margin: 0 auto 1rem;
+  max-width: 600px;
+  font-size: 3rem;
+  line-height: 7rem;
+}
+
+
+h2 {
+  padding: 1rem;
+  background-color: gold;
+  border-radius: 2rem 2rem 0 0;
+}
+
+
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border-top: 1px solid #333;
+}
+
+
+li a {
+  display: block;
+}
+
+
+li a,
+li a:visited {
+  text-decoration: none;
+  color: #333;
+} 
+
+li a:hover,
+li a:focus {
+  background: black;
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+
+li:last-child a{
+  border-radius: 0 0 2rem 2rem;
+}
+ */
+/* body {
+  padding: 5% 10%;
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;;
+}
+
+
+ol {
+  list-style-type: lower-alpha;
+  padding: 0;
+}
+
+ul {
+  list-style-type: square;
+  text-align: center;
+  list-style-position: inside;
+  color: #00f;
+  line-height: 1.6; */
+  /* list-style-image: url('../images/checkmark.png');
+  list-style: square  url('../images/checkmark.png')
+  inside; */
+
+
+
+
+/* ul li:nth-child(even) {
+  color: red;
+}
+
+ul ::marker {
+color: red;
+font-family: fantasy;
+font-size: 1em;
+content: "Only $5 >> ";
+} */
+/* main {
+  opacity: 1;
+} */
+/* input, button {
+  font: inherit;
+} */
+
+
+/* p {
+  line-height: 1.5;
+  
+} */
